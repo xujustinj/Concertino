@@ -1,6 +1,6 @@
 # Concertino
 
-[Documentation](https://docs.google.com/document/d/e/2PACX-1vSxOxI5AWGej3U9z5NkT7-Sy-srvTgDEPduafk8GAeGD2WfHHm6pabB1bmBaUU59xYzlDA0ubctju7J/pub) can be found here.
+[Documentation](https://drive.google.com/file/d/1ss1RWqw_fR6lcpGSqQzRKe6ND7hnjO4B/view?usp=sharing)
 
 ![](img/example.png)
 
